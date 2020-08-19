@@ -1,0 +1,14 @@
+x86_64-pc-linux-gnu-gcc-ranlib
+x86_64-pc-linux-gnu-gcc-nm
+x86_64-pc-linux-gnu-gcc-ar
+x86_64-pc-linux-gnu-gcc-10.1.0
+x86_64-pc-linux-gnu-gcc
+gcc-ranlib
+gcc-nm
+gcc-ar
+gcc
+aarch64-linux-gnu-gcc-ranlib
+aarch64-linux-gnu-gcc-nm
+aarch64-linux-gnu-gcc-ar
+aarch64-linux-gnu-gcc-10.2.0
+aarch64-linux-gnu-gcc
